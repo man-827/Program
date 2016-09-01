@@ -1,0 +1,9 @@
+<HTML>
+    <HEAD>
+        <TITLE>Applet Parameter Test</TITLE>
+    </HEAD>
+    <applet code="AppletPara.class" width=300 height=300>
+         <param name=p1 value="11111">
+         <param name=p2 value="22222">
+    </applet>
+</HTML>
